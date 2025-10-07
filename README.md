@@ -1,2 +1,10 @@
-# simple-interest-calculator
-this is a simple interest calculator project
+# Simple Interest Calculator
+
+This is a simple Bash script that calculates simple interest.
+
+## Formula
+Simple Interest = (Principal * Rate * Time) / 100
+
+## Usage
+```bash
+bash simple-interest.sh
